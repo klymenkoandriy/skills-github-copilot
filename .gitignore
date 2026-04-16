@@ -39,4 +39,7 @@ ehthumbs.db
 Thumbs.db
 .actrc*
 
+# Python virtual environment
+.venv/
+
 __pycache__/
